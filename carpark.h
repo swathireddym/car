@@ -1,3 +1,6 @@
+//The code defines a header file "carpark.h" that declares structures and functions related to a car park management system. 
+It includes functions for parking a car, removing a car, displaying parked cars, calculating parking time and fees, as well as saving and loading data to/from files. 
+The header file encapsulates the functionality of the car park system for use in other source files.//
 #ifndef CAR_PARK_H
 #define CAR_PARK_H
 
