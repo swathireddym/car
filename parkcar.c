@@ -1,3 +1,6 @@
+//The code defines a function parkCar that adds a new car to a car park linked list. 
+It creates a new car node, assigns it a slot number, car number, owner name, and timestamp. 
+Then it adds the new car to the end of the linked list. The function returns the newly added car node.//
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
