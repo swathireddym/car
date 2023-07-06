@@ -1,3 +1,7 @@
+//The code implements a simple car park management system. 
+It allows users to park cars, remove cars, display parked cars, and save/load car park data.
+It presents a menu to the user and performs the corresponding actions based on their choices. 
+The code aims to provide basic functionality for managing a car park.//
 #include "carpark.h"
 #include <stdio.h>
 #include <stdlib.h>
