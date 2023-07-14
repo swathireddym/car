@@ -1,6 +1,6 @@
-The provided code implements a car park management system that allows users to park cars, remove cars, display parked cars, and save/load car park data.
-It utilizes a linked list to store car information and provides functions for various operations such as calculating parking time and fees.
-Additionally, it includes a header file that encapsulates the functionality of the system for use in other source files.
+The provided code implements a car park management system that allows users to park cars, remove cars, display parked cars, and save/load car park data.      
+It utilizes a linked list to store car information and provides functions for various operations such as calculating parking time and fees.                   
+Additionally, it includes a header file that encapsulates the functionality of the system for use in other source files.                                      
 
 2/7/23: create the car parking application.                                     
 4/7/23: create main.c and sub.h files.                                                
